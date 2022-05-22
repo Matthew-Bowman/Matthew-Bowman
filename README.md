@@ -55,15 +55,30 @@ I'm Matthew, a student studying computing at the University of Worcester.
         <td>
             <strong>Calculator</strong>
         </td>
+        <td>
+            <a href="https://github.com/Matthew-Bowman/Calculator">
+                <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+        </td>
     </tr>
     <tr>
         <td>
             <strong>Rock Paper Scissors</strong>
         </td>
+        <td>
+            <a href="https://github.com/Matthew-Bowman/Rock-Paper-Scissors">
+                <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+        </td>
     </tr>
     <tr>
         <td>
             <strong>Sketch-It</strong>
+        </td>
+        <td>
+            <a href="https://github.com/Matthew-Bowman/Sketch-It">
+                <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+            </a>
         </td>
     </tr>
 </table>
