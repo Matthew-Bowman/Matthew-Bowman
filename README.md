@@ -45,6 +45,11 @@ I'm Matthew, a student studying computing at the University of Worcester.
         <td>
             <strong>Portfolio</strong>
         </td>
+        <td>
+            <a href="https://github.com/Matthew-Bowman/Portfolio">
+                <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+        </td>
     </tr>
     <tr>
         <td>
