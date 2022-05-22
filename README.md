@@ -9,6 +9,9 @@ I'm Matthew, a student studying computing at the University of Worcester.
 <table>
     <tr>
         <td align="center">
+            <strong>Front End</strong>
+        </td>
+        <td align="center">
             <img width="48" src="https://camo.githubusercontent.com/72e5df59529a42423d671ba4c02bfb327d917517bfff18595c5e5dc17a5abece/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f68746d6c352e737667">
             <br />
             <strong>HTML</strong>
@@ -25,6 +28,9 @@ I'm Matthew, a student studying computing at the University of Worcester.
         </td>
     </tr>
     <tr>
+        <td align="center">
+            <strong>Version Control<br />&<br />Collaboration</strong>
+        </td>
         <td align="center">
             <img width="48" src="https://camo.githubusercontent.com/a7628672dbfd8720309680580dbfe8aff1d12a1bb2397b5c36cd10a56e08adf7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667">
             <br />
