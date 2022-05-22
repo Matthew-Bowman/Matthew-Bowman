@@ -4,6 +4,8 @@ I'm Matthew, a student studying computing at the University of Worcester.
 ### Connect with me
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matthew-bowman-969085218/)
 
+### Technologies
+
 <!--
 **Matthew-Bowman/Matthew-Bowman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
