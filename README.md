@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Matthew, a student studying computing at the University of Worcester.
 <!--
 **Matthew-Bowman/Matthew-Bowman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
