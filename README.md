@@ -40,10 +40,28 @@ I'm Matthew, a student studying computing at the University of Worcester.
 
 ### Current Projects
 
-- Portfolio
-- Calculator
-- Rock Paper Scissors
-- Sketch-It
+<table>
+    <tr>
+        <td>
+            <strong>Portfolio</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <strong>Calculator</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <strong>Rock Paper Scissors</strong>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <strong>Sketch-It</strong>
+        </td>
+    </tr>
+</table>
 
 <!--
 **Matthew-Bowman/Matthew-Bowman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
