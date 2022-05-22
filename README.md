@@ -50,6 +50,11 @@ I'm Matthew, a student studying computing at the University of Worcester.
                 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
             </a>
         </td>
+        <td>
+            <a href="https://matthew-bowman.github.io/Portfolio">
+                <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+            </a>
+        </td>
     </tr>
     <tr>
         <td>
@@ -58,6 +63,11 @@ I'm Matthew, a student studying computing at the University of Worcester.
         <td>
             <a href="https://github.com/Matthew-Bowman/Calculator">
                 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+        </td>
+        <td>
+            <a href="https://matthew-bowman.github.io/Calculator">
+                <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
             </a>
         </td>
     </tr>
@@ -70,6 +80,11 @@ I'm Matthew, a student studying computing at the University of Worcester.
                 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
             </a>
         </td>
+        <td>
+            <a href="https://matthew-bowman.github.io/Rock-Paper-Scissors">
+                <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
+            </a>
+        </td>
     </tr>
     <tr>
         <td>
@@ -78,6 +93,11 @@ I'm Matthew, a student studying computing at the University of Worcester.
         <td>
             <a href="https://github.com/Matthew-Bowman/Sketch-It">
                 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+            </a>
+        </td>
+        <td>
+            <a href="https://matthew-bowman.github.io/Sketch-It">
+                <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
             </a>
         </td>
     </tr>
