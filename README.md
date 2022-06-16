@@ -62,11 +62,11 @@ I'm Matthew, a student studying computing at the University of Worcester.
     <tr>
         <td align="center">
             <strong>Systems</strong>
+        </td>
         <td align="center">
             <img width="48" src="https://camo.githubusercontent.com/05eece38536aac5c8437e2cb46362e545443a80922c5e28463530726a6d186ac/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f77696e646f77732e737667">
             <br />
             <strong>Windows</strong>
-        </td>
         </td>
     </tr>
 </table>
