@@ -42,6 +42,11 @@ I'm Matthew, a student studying computing at the University of Worcester.
             <br />
             <strong>React</strong>
         </td>
+        <td align="center">
+            <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Bootstrap.svg">
+            <br />
+            <strong>Bootstrap</strong>
+        </td>
     </tr>
     <tr>
         <td align="center">
