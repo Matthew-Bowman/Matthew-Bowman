@@ -1,9 +1,10 @@
 ### Hi there 👋
+
 I'm Matthew, a student studying computing at the University of Worcester.
 
 ### Connect with me
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matthew-bowman-969085218/)
 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matthew-bowman-969085218/)
 
 ### Portfolio
 
@@ -33,6 +34,9 @@ I'm Matthew, a student studying computing at the University of Worcester.
             <br />
             <strong>JavaScript</strong>
         </td>
+    </tr>
+    <tr>
+        <td align="center"><strong>Font End Frameworks</strong></td>
     </tr>
     <tr>
         <td align="center">
