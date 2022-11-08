@@ -82,6 +82,11 @@ I'm Matthew, a student studying computing at the University of Worcester.
             <br />
             <strong>PHP</strong>
         </td>
+        <td align="center">
+            <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/MySQL-Dark.svg">
+            <br />
+            <strong>MySQL</strong>
+        </td>
     </tr>
     <tr>
         <td align="center"><strong>Back End Frameworks</strong></td>
