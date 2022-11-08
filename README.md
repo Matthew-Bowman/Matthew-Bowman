@@ -36,7 +36,7 @@ I'm Matthew, a student studying computing at the University of Worcester.
         </td>
     </tr>
     <tr>
-        <td align="center"><strong>Font End Frameworks</strong></td>
+        <td align="center"><strong>Front End Frameworks</strong></td>
     </tr>
     <tr>
         <td align="center">
