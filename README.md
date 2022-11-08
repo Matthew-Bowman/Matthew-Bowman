@@ -37,6 +37,11 @@ I'm Matthew, a student studying computing at the University of Worcester.
     </tr>
     <tr>
         <td align="center"><strong>Front End Frameworks</strong></td>
+        <td align="center">
+            <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/React-Dark.svg">
+            <br />
+            <strong>React</strong>
+        </td>
     </tr>
     <tr>
         <td align="center">
