@@ -43,7 +43,7 @@ I'm Matthew, a student studying computing at the University of Worcester.
             <strong>Version Control<br />&<br />Collaboration</strong>
         </td>
         <td align="center">
-            <img width="48" src="https://camo.githubusercontent.com/a7628672dbfd8720309680580dbfe8aff1d12a1bb2397b5c36cd10a56e08adf7/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6769742e737667">
+            <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/Git.svg">
             <br />
             <strong>Git</strong>
         </td>
