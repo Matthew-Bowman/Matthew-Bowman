@@ -94,6 +94,9 @@ I'm Matthew, a student studying computing at the University of Worcester.
             <strong>Ubuntu</strong>
         </td>
     </tr>
+    <tr>
+        <td align="center"><strong>Hardware</strong></td>
+    </tr>
 </table>
 
 <!--
