@@ -58,7 +58,7 @@ I'm Matthew, a student studying computing at the University of Worcester.
             <strong>Back End</strong>
         </td>
         <td align="center">
-            <img width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+            <img width="48" src="https://raw.githubusercontent.com/tandpfun/skill-icons/d1c752b99bb25a0e5aa363bae1db2809173ee966/icons/NodeJS-Dark.svg">
             <br />
             <strong>NodeJS</strong>
         </td>
