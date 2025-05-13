@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Matthew, a student studying computing at the University of Worcester.
+I'm Matthew, a structured systems analyst and software developer.
 
 ### Connect with me
 
