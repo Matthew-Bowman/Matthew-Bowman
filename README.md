@@ -8,7 +8,7 @@ I'm Matthew, a structured systems analyst and software developer.
 
 ### Portfolio
 
-<a href="https://matthew-bowman.github.io/Portfolio">
+<a href="https://matthewbowman.uk">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white">
 </a>
 
